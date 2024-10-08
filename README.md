@@ -1,4 +1,4 @@
-# Lama Dev Chat App Starter template
+#
 
 Chat App
 This is a chat application built using React and JavaScript. The project is made by using  Firebase for authentication and secure data storage.
